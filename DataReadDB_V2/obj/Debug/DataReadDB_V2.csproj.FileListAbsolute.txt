@@ -1,0 +1,10 @@
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\bin\Debug\DataReadDB_V2.exe.config
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\bin\Debug\DataReadDB_V2.exe
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\bin\Debug\DataReadDB_V2.pdb
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.csprojAssemblyReference.cache
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.Form1.resources
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.Properties.Resources.resources
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.csproj.GenerateResource.cache
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.csproj.CoreCompileInputs.cache
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.exe
+C:\Users\DSP\source\repos\DataReadDB_V2\DataReadDB_V2\obj\Debug\DataReadDB_V2.pdb
